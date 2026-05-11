@@ -56,7 +56,6 @@
     obs-studio
     docker-compose
     mission-center
-    vscode
   ];
 
   programs.steam.enable = true;

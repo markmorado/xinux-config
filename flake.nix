@@ -1,6 +1,6 @@
 {
   inputs = {
-    nixpkgs.url = "github:xinux-org/nixpkgs/nixos-25.11";
+    nixpkgs.url = "github:NixOS/nixpkgs/nixos-25.11";
     nix-data = {
       url = "github:xinux-org/nix-data/release-25.11";
       inputs.nixpkgs.follows = "nixpkgs";
